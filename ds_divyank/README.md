@@ -1,4 +1,4 @@
-# Trader and MArket Sentiment Analysis — Data Science Assignment
+# Trader and Market Sentiment Analysis — Data Science Assignment
 
 This project explores the relationship between **trader behavior** and **market sentiment** (Fear vs Greed) using real historical trading data and Bitcoin market sentiment indices.  
 It is part of the **Web3 Trading Team Data Science Assessment**.
@@ -100,6 +100,18 @@ B.Tech CSE — Guru Jambeshwar University, Hisar (2021–2025)
 🔗 [Portfolio](https://divyank.lovable.app) • [LinkedIn](https://linkedin.com/in/divyankgoyal) • [GitHub](https://github.com/Divyank1977)
 
 ---
+
+##  Links
+- **notebook1:** https://colab.research.google.com/drive/1TDsN4BRlVCzfn1k90d0AG9KZIL0fFqEM?usp=sharing  
+- **report:** https://docs.google.com/document/d/13g2EL2_QoDGOBtyzloHllGK3_FkRD0xUISxe54I2Dt8/edit?usp=sharing  
+- **Historical Data csv:** https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+- **Fear Greed Index link csv:** https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+- **merged csv:** https://drive.google.com/file/d/1NXsAAMs5fd5cAlkiFCjX952dAf2zQrd4/view?usp=sharing
+- **Cloud:** Google Drive for dataset access  
+
+
+---
+
 
 ##  Submission Compliance
 
